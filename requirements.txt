@@ -4,5 +4,7 @@ scikit-learn
 matplotlib
 seaborn
 flask
+django
+
 
 
