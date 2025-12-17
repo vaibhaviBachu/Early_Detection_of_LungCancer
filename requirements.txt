@@ -1,6 +1,8 @@
-numpy==1.19.2
+numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 flask
+
+
